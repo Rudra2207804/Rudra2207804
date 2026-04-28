@@ -50,6 +50,16 @@ class Rudra:
 
     fun_fact = "I bridge business strategy with engineering to build smarter, secure systems."
 ```
+## 📋 Professional Summary
+
+> Experienced **Apigee Developer** with hands-on involvement in building API proxies from scratch with traffic management and security policies. Expert in **RESTful** (Swagger) and **SOAP** (WSDL) services with deep understanding of API management across **Apigee Edge**, **Apigee SaaS**, and **Apigee Micro Gateway**.
+---
+
+## 💼 Professional Experience
+
+**Software Developer** &nbsp;|&nbsp; `July 2023 – Present`
+
+---
 
 ---
 
@@ -95,6 +105,42 @@ class Rudra:
 
 </div>
 
+### Core Competencies
+- 🔧 API design, development, testing & troubleshooting
+- 🔐 Security — Mutual SSL, OAuth 2.0, API key validation, Spike Arrest, Rate Limiting
+- ⚡ Performance optimization using Apigee analytics & traffic management policies
+- 🧩 Hands-on with JavaScript, Python, XSLT & Schema Validation extension policies
+- 🐧 Linux file system, storage management, user & group administration
+- 🏪 Merchant onboarding & API key provisioning
+
+---
+
+## 🚀 Projects
+
+### 🎙️ Conferenza
+> *Virtual Conference Platform*
+
+Developed a platform for virtual conferences with scheduling, attendee management, and interactive features.
+
+| Responsibility | Details |
+|---|---|
+| **API Management** | Built and managed APIs via Apigee for front-end/back-end integration |
+| **API Security** | Implemented security policies & rate limiting to protect API traffic |
+| **Performance Monitoring** | Used Apigee analytics to monitor and optimize response times |
+| **Enhanced Security** | Deployed robust protocols, increasing API resilience against threats |
+
+---
+
+### 💸 PennyLess
+> *Financial Literacy & Tools Platform*
+
+Built and managed APIs using Apigee to power financial tools — connecting budgeting features with users' bank accounts for automatic transaction tracking, categorization, and secure data flow across financial services.
+
+| Responsibility | Details |
+|---|---|
+| **API Management** | Developed and managed APIs ensuring seamless front-end/back-end integration |
+| **API Security** | Implemented security policies & rate limiting to manage and protect API traffic |
+| **Data Integration** | Ensured secure data transmission across financial services and platforms |
 ---
 
 ## 📊 GitHub Stats
